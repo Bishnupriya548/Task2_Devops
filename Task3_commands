@@ -1,0 +1,14 @@
+1.git init #to initialize empty git repository 
+2.git clone "repo_url"   #to clone a repo in your folder
+3.git status  #shows modified files,files in staged area
+4.git add -A  #to add all files to staging area 
+5.git commit -m "commit message"  
+6.git checkout fileName  #to recover last commit
+7.git log #show all commits
+8.git diff  #compare working tree with staging area
+9.git rm fileName  #remove file from working directory and staging area
+10.git rm --cached fileName  #remove from staging area/stops tracking the file
+11.git branch  #shows the current branch
+12.git checkout feature1   #switch to feature1 branch
+
+
